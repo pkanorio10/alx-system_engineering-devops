@@ -1,3 +1,2 @@
-#1/bin/bash
-ls -la why? 
-
+#!/bin/bash
+why?
