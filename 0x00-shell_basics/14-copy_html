@@ -1,2 +1,2 @@
 #!/bin/bash
-c -R *.html $(alx-systemr_engineering-devops/0x00-shell_basics)/../
+cp -u ./*.html ../
